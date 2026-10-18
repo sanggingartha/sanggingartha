@@ -1,2 +1,2 @@
-![Coding GIF](/assets/relax.gif)
-![Coding GIF](/assets/relax.gif)
+![Coding GIF](/assets/one.gif)
+![Coding GIF](/assets/stfu.gif)
